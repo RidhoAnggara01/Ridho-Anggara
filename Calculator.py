@@ -2,7 +2,7 @@ import os
 
 os.system("clear")
 print ("""\033[30;1m[•]=======================================[•]
-\033[31;1m|#               Welcome to Tools Calculator        #|
+\033[31;1m|#       Welcome to Tools Calculator       #|
 \033[32;1m|# Author    : MR_CYBER_DHO                            #|
 \033[33;1m|# Contact   : 089661363050                #|
 \033[34;1m|# GitHub     : https://github.com/RidhoAnggara01         #|
