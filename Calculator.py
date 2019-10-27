@@ -1,16 +1,3 @@
-import os
-
-os.system("clear")
-print ("""\033[30;1m[•]=======================================[•]
-\033[31;1m|#       Welcome to Tools Calculator       #|
-\033[32;1m|# Author    : MR_CYBER_DHO                            #|
-\033[33;1m|# Contact   : 089661363050                #|
-\033[34;1m|# GitHub     : https://github.com/RidhoAnggara01         #|
-\033[35;1m|# InstaGram  : ridho_anggara01            #|
-\033[36;1m|# NOTES!!!  : Lapor ke MR_CYBER_DHO Bila Ada Tools Yang Error #|
-\033[37;1m|# Donasi pulsa : 089661363050 [Yang Baik Hati]    #|
-\033[30;1m[•]=================================================[•]""")
-
 ''' Program kalkulator sederhana untuk menjumlah, mengurang, mengkali, dan membagi bilangan dengan menggunakan fungsi '''
 import sys , os
 
