@@ -15,7 +15,7 @@ def divide(x, y):
    return x / y
 # menu operasi
 os.system("clear")
-os.system("figlet xNot_Found | lolcat")
+os.system("figlet MR_CYBER_DHO | lolcat")
 print("\033[1;31;1m")
 print("========Pilih Operasi=======")
 print("1.Penjumlahan")
